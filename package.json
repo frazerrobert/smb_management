@@ -1,0 +1,22 @@
+{
+  "name": "smb_management",
+  "version": "1.0.0",
+  "description": "A crm kinda app for small businesses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frazerrobert/smb_management.git"
+  },
+  "author": "FrazerRob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frazerrobert/smb_management/issues"
+  },
+  "homepage": "https://github.com/frazerrobert/smb_management#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
